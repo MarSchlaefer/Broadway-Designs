@@ -5,11 +5,11 @@
 
 /* Title Banner */
 .title_banner * {
-  background-image: url("../images/the-flatiron-building.png");
   color: white;
+  background-image: url(../images/the-flatiron-building.png);
 }
 
-h1 {
+.title_banner h1 {
   font-size: 70px;
   font-weight: bold;
 }
